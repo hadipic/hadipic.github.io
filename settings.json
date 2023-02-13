@@ -1,0 +1,17 @@
+[
+	{
+		"apid": "home-automation",
+		"apid_password": "omid",
+		"ssid": "shop-electronic",
+		"ssid_password": "bashniji@#1401",
+		"ip": "192.168.1.5",
+		"gateway": "192.168.1.1",
+		"netmask": "255.255.255.0"
+	},
+	{
+		"apid": "sadasd"
+	},
+	{
+		"apid_password": "ssasdasd"
+	}
+]
